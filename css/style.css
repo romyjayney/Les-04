@@ -1,0 +1,45 @@
+html, body {
+    background-color: #FCE205;
+    font-family: 'Anton', sans-serif;
+    max-width: 800px;
+    width:100%;
+    padding-right:15px;
+    padding-left:15px;
+    margin-right:auto;
+    margin-left:auto;
+}
+
+.center {
+    text-align: center;
+}
+
+.text-white {
+    color: white;
+}
+
+.title {
+    letter-spacing: 1px;
+    font-size: 48px;
+}
+
+ul {
+    list-style-type: none;
+    padding-left: 0px;
+}
+
+li {
+    font-size: 22px;
+}
+
+li:hover {
+    color: white;
+}
+
+h2 {
+    letter-spacing: 0.5px;
+}
+
+img {
+    max-width: 800px;
+    text-align: center;
+}
